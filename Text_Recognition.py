@@ -12,7 +12,7 @@ def put_label(img, lbl, cord):
     cv2.rectangle(img, (startX-1, startY), (endX - 1, startY-20), (0, 255, 0), cv2.FILLED)
     font = cv2.FONT_HERSHEY_SIMPLEX
     cv2.putText(img, lbl, (startX+5, startY-5), font, 0.5,
-                (255, 255, 255), 1, cv2.LINE_AA)
+                (0, 0, 0), 1, cv2.LINE_AA)
     cv2.rectangle(img, (startX, startY), (endX, endY), (0, 255, 0), 2)
 
 def get_text_lbl(orig_cord, image):
