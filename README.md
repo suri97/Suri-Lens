@@ -3,7 +3,7 @@ This is a Text Detection and Text Recognition app with performance comparable to
 
 ## Reqiurements
 - [OpenCV](https://docs.opencv.org/3.4.2/da/df6/tutorial_py_table_of_contents_setup.html) >= v3.4.2
-- PyTessaract : `pip install pytessaract`
+- PyTesseract : `pip install pytesseract`
 - imutils : `pip install --upgrade imutils`
 
 ## Usage
