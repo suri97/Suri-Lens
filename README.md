@@ -1,5 +1,5 @@
 # Suri-Lens
-This is a Text Detection and Text Recognition app with performance comparable to Google Lens's Text Selection feature.
+This is a Text Detection and Recognition app with performance comparable to Google Lens's Text Selection feature.
 
 ## Reqiurements
 - [OpenCV](https://docs.opencv.org/3.4.2/da/df6/tutorial_py_table_of_contents_setup.html) >= v3.4.2
